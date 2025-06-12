@@ -389,7 +389,10 @@ twitter: https://twitter.com/ubaidxdev
   <br>
   <i>— Ubad Ullah | ubaidxdev</i>
 </p>
-
+<br>
+<a href="./tic-tac-toe.html">
+  <img src="https://img.shields.io/badge/Play-TicTacToe-blue?style=for-the-badge&logo=github">
+</a>
 ---
 
 <!--
