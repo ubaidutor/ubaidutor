@@ -9,39 +9,42 @@
 
 <a name="top"></a>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1200&color=1DE9B6,FFD600,EA5455,00B8D4,FF9800&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hey!+I'm+Ubaid+Utor+%7C+ubaidxdev;Flutter+%7C+AI+%7C+Automation+%7C+Innovation;Let's+Build+Legendary+Sh*t+Together!%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1200&color=F7971E,00B8D4,FFD600,EA5455,2DCE98&center=true&vCenter=true&width=900&lines=👋+Hey!+I'm+Ubad+Ullah+%7C+ubaidxdev;Innovator,+Learner,+Explorer;Coding+Worlds+Wonderer+%F0%9F%AA%84;Flutter+%7C+AI+%7C+Node.js+%7C+LLMs+%7C+Backend" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160"/>
 </p>
 
 ---
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-00E676?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation%20Enthusiast-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seeking%20New%20Opportunities-FFD600?style=for-the-badge&logo=rocket.chat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Innovator-00E676?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-FFD600?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coding%20Worlds%20Wonderer-00B8D4?style=for-the-badge&logo=explorer&logoColor=white"/>
 </h1>
 
 ---
 
 <p align="center">
   <img src="https://github.com/ubaidxdev/ubaidxdev/blob/main/assets/flutter-cube.gif" width="220" alt="Flutter Animated Cube"/>
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="120" />
 </p>
 
 ---
 
 # 🚀 Who Am I?
 
-> **Ubaid Utor** — also known as **ubaidxdev**  
+> **Ubad Ullah** — also known as **ubaidxdev**  
 > 🎓 BSCS Graduate | 🏢 Ex-Metasense Technologies | 📍 Peshawar, Pakistan
 
-- **🌟 A passionate software engineer blending creativity, code, and caffeine.**
-- **🔭 Flutter Jedi**: Building next-gen, high-performance, cross-platform mobile apps.
-- **🤖 AI & Automation Addict**: Automating the boring, supercharging the smart.
-- **🎨 UI/UX Vibes**: Figma wizard, loves pixel-perfect, vibrant, user-obsessed designs.
-- **✨ Community Contributor**: Blogging, open-source, tech talks, and mentoring.
+- **🌟 An innovator, lifelong learner, and explorer of the coding multiverse.**
+- **🌌 Flutter Adventurer**: Building beautiful, high-performance, cross-platform apps.
+- **🤖 AI Explorer**: Experimenting with LLMs, AI agents, and automations.
+- **🧑‍💻 Backend Enthusiast**: Learning Node.js, RESTful APIs, databases, and scalable architectures.
+- **📚 Always Curious**: Diving into new tech, frameworks, and ideas.
+- **🗺️ Wondering & Wandering**: Forever seeking new coding realms to discover.
 
 ---
 
@@ -50,24 +53,25 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="90"/>
   <img src="https://media.giphy.com/media/loFW6U3fL2QFbUOgqg/giphy.gif" width="90"/>
   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="90"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1tZDU3aHdtZjUzNm1tZ3R1dnAwdG45d3JkN3h5OHdreW13bGx5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9PtfS5tTC8ejlYfCLU/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/l3vR1PU5hHzJQJg2w/giphy.gif" width="90"/>
 </p>
 
 ---
 
-# 🌈 Table of Contents
+# 🌌 Table of Contents
 
 1. [About Me](#about-me)
 2. [Tech Stack](#tech-stack)
-3. [Trophies & Streaks](#trophies)
-4. [GitHub Stats](#stats)
-5. [✨ Projects](#projects)
-6. [Testimonials](#testimonials)
-7. [Fun Facts](#fun-facts)
-8. [Connect](#connect)
-9. [More Cool Stuff](#more-cool-stuff)
-10. [Animated Footer](#footer)
+3. [Learning Path](#learning-path)
+4. [Trophies & Flows](#trophies)
+5. [GitHub Stats](#stats)
+6. [✨ Projects](#projects)
+7. [Testimonials](#testimonials)
+8. [Fun Facts](#fun-facts)
+9. [Connect](#connect)
+10. [More Cool Stuff](#more-cool-stuff)
+11. [Animated Footer](#footer)
 
 ---
 
@@ -75,20 +79,20 @@
 ## 💡 About Me
 
 ```yaml
-name: Ubaid Utor
+name: Ubad Ullah
 aka: ubaidxdev
 location: Peshawar, KPK, Pakistan
 degree: BSCS
-status: Open to Work
-focus: Flutter | Firebase | RESTful APIs | AI Automation
+status: Forever Exploring
+focus: Flutter | AI | Node.js | LLMs | Automation | Backend
 traits:
-  - Problem Solver
-  - Creative Thinker
-  - Team Player & Mentor
-  - UI Perfectionist
-  - Loves Coffee ☕
-  - Automation Geek
-  - Open Source Evangelist
+  - Innovator
+  - Lifelong Learner
+  - Coding Worlds Wonderer
+  - Curious Explorer
+  - UI Dreamer
+  - Automation Seeker
+  - Open to Collaboration!
 ```
 
 ---
@@ -99,30 +103,52 @@ traits:
 ### ✨ Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,figma,firebase,git,postman,mongodb,mysql,mssql,python,vscode,linux,js,html,css,githubactions" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,figma,firebase,git,postman,mongodb,mysql,mssql,python,vscode,linux,js,html,css,githubactions,nodejs" />
 </p>
 
-### 💥 Favorite Flutter Packages
+### 💥 Favorite Flutter Packages & Backend
 
 - **State Management:** Bloc, Provider, GetX, Riverpod  
 - **Networking:** Dio, http, Retrofit  
 - **UI/UX:** AnimatedContainer, Lottie, Shimmer, Glassmorphism  
 - **APIs:** RESTful, GraphQL  
-- **Backend:** Firebase (Auth, Firestore, Storage), Node.js, Express  
+- **Backend:** Node.js, Express, Firebase (Auth, Firestore, Storage), MongoDB, MySQL  
+- **AI:** LLMs (fine-tuning, prompt engineering, agentic optimizations)  
 - **Testing:** Mockito, integration_test  
-- **Deployment:** Play Store, Firebase App Distribution
+- **Deployment:** Play Store, Firebase App Distribution, Vercel
 
 ### 🧰 Tools
 
-- **Design:** Figma, Adobe XD
-- **Productivity:** Notion, Trello, Slack
-- **Version Control:** Git, GitHub, GitHub Actions
-- **APIs:** Postman, Insomnia
+- Figma, Adobe XD, Notion, Trello, Slack, GitHub, GitHub Actions, Postman, Insomnia
+
+---
+
+<a name="learning-path"></a>
+## 🌱 My Learning Path
+
+```mermaid
+graph LR
+  A[Java] --> B[Android]
+  B --> C[Flutter]
+  C --> D[Firebase]
+  D --> E[Node.js]
+  E --> F[LLMs]
+  F --> G[Agentic Optimization]
+  G --> H[Open Source]
+  H --> I[Cloud & Automation]
+```
+
+- 🌠 **Currently Exploring:**  
+  - Node.js backend (Express, REST, MongoDB)
+  - LLM fine-tuning (OpenAI, open-source models)
+  - Building AI agents and prompt workflows
+  - Automation in DevOps & CI/CD
+  - Creative Flutter animations & UIs
 
 ---
 
 <a name="trophies"></a>
-## 🏆 Trophies & Activity
+## 🏆 Trophies & Animated Flows
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ubaidxdev&theme=onestar&no-bg=true&margin-w=15&title=Commits,Stars,Followers,Repositories,PullRequest,Issues,Reviews" />
@@ -135,6 +161,20 @@ traits:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubaidxdev&theme=react-bright&color=EA5455&line=FFD600&point=2DCE98&area=true&hide_border=true" width="90%" />
 </p>
+
+### 🌀 My Coding Flow
+
+```flow
+st=>start: Start
+idea=>operation: Discover New Tech/Idea
+learn=>operation: Dive In & Learn Deeply
+build=>operation: Build Projects
+break=>operation: Break Things (Experiment!)
+debug=>operation: Debug & Fix
+share=>operation: Share Learnings/Blog
+repeat=>operation: Repeat (Explore More)
+st->idea->learn->build->break->debug->share->repeat->idea
+```
 
 ---
 
@@ -153,46 +193,40 @@ traits:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**SomeDopeApp**](https://github.com/ubaidxdev/somedopeapp) | 🚀 Next-gen productivity, automation & AI. | Flutter, Firebase, GetX |
+| [**SomeDopeApp**](https://github.com/ubaidxdev/somedopeapp) | 🚀 Productivity with automation & AI. | Flutter, Firebase, GetX |
 | [**Flutter-FireKit**](https://github.com/ubaidxdev/flutter-firekit) | 🔥 Rapid Flutter + Firebase starter kit. | Flutter, Firebase, Bloc |
-| [**GetX-Examples**](https://github.com/ubaidxdev/getx-examples) | ⚡ Practical GetX patterns for modern apps. | Flutter, GetX |
+| [**GetX-Examples**](https://github.com/ubaidxdev/getx-examples) | ⚡ GetX patterns for modern apps. | Flutter, GetX |
 | [**AI-Chatbot-Demo**](https://github.com/ubaidxdev/ai-chatbot-demo) | 🤖 AI-powered conversational bot. | Flutter, Python, NLP |
 | [**Taskify**](https://github.com/ubaidxdev/taskify) | 📋 Smart To-Do with ML-based prioritization. | Flutter, Firebase, ML |
-| [**OpenSource-Contributions**](https://github.com/ubaidxdev/open-source) | 🌍 Various PRs and OSS stuff. | Diverse |
-| [**Portfolio**](https://github.com/ubaidxdev/portfolio) | 💼 My interactive dev portfolio. | Flutter Web, JS |
+| [**Portfolio**](https://github.com/ubaidxdev/portfolio) | 💼 Interactive dev portfolio. | Flutter Web, JS |
 
 ---
 
 <a name="testimonials"></a>
 ## 💬 Testimonials
 
-> “One of the most creative Flutter devs I’ve worked with. He gets sh*t done!”  
-> — _Random Satisfied Client_
+> “A true explorer of the coding cosmos. Always learning, always building.”  
+> — _A Fellow Developer_
 
-> “Automation and AI wizard. Takes projects from zero to hero, fast.”  
-> — _A Happy Team Lead_
-
-> “If you need something beautiful, automated, and robust—Ubaid is your man!”  
-> — _UI/UX Designer_
+> “Ubad is never afraid to try new tech; his curiosity is contagious!”  
+> — _A Team Member_
 
 ---
 
 <a name="fun-facts"></a>
 ## 🎉 Fun Facts
 
-- I drink code for breakfast and debug for dessert.
-- If it's not automated, it's not finished.
-- I can turn coffee into code.  
-- I like my apps like my coffee: fast, strong, and reliable.
-- I once built a complete app in 48 hours (and it worked!).
-- I use more emojis than a Gen-Z group chat.
-- 🌞 Daydreaming about launching a SaaS someday.
-- 🏆 Have won 3 hackathons. Still hungry for more!
-- Secret Skill: Making boring specs look fun and alive.
+- My code is fueled by curiosity and coffee.
+- If I’m not debugging, I’m probably learning something new.
+- I get excited about creative animations, LLMs, and backend flows.
+- I love exploring both the frontend and backend universe.
+- My favorite debugging tool: a good playlist and a walk.
+- I use emojis in code reviews to keep things lively.
+- I enjoy building stuff just for the challenge of it.
 
 ---
 
-## 🌈 More About My Journey
+## 🌌 My Coding Journey
 
 ```ascii
          .-'''-.
@@ -200,24 +234,24 @@ traits:
         \/ 6 6 \/
         ( \___/ )
 ___ooo__\_____/__ooo___
-Ubaid Utor — Code, Create, Automate!
+Ubad Ullah — Innovator, Learner, Explorer
 ```
 
 - 📈 120+ repositories (and counting)
 - 💬 5000+ Stack Overflow answers viewed
 - 🧑‍💻 7+ years coding, 4+ years Flutter
-- 🌍 Community: DevFest, FlutterMeet, Hackathons
+- 🌍 Community: DevFest, FlutterMeet, TechTalks
 
 ---
 
 ## 🦄 My Workflow
 
-- Start every project in Figma
+- Brainstorm, explore, and experiment
+- Design in Figma & iterate fast
 - Write modular, scalable, and testable code
-- Use GitHub Actions for CI/CD
-- Automate repetitive tasks (scripts, bots, whatever!)
-- Write docs that are actually fun to read
-- Deploy. Celebrate. Repeat.
+- Automate everything possible
+- Document & share learnings
+- Celebrate growth and start again
 
 ---
 
@@ -226,50 +260,51 @@ Ubaid Utor — Code, Create, Automate!
 ```
 | Day      | Focus                         |
 |----------|-------------------------------|
-| Monday   | Planning & UI/UX              |
-| Tuesday  | Core Features & API Work      |
-| Wednesday| Automation & Testing          |
-| Thursday | Refactoring, Docs, OSS        |
-| Friday   | Deploy, Demo, Celebrate!      |
-| Weekend  | Learning, Community, Sleep 😴 |
+| Monday   | Exploring new tech/tools      |
+| Tuesday  | Deep learning & hands-on      |
+| Wednesday| Backend adventures            |
+| Thursday | Flutter & UI animations       |
+| Friday   | LLMs & AI agents              |
+| Weekend  | Reflections & community       |
 ```
 
 ---
 
 ## 🧑‍🎨 My Design Aesthetic
 
-- Vibrant gradients (orange, teal, yellow, pink)
-- Glassmorphism, neumorphism, and all the -isms
-- Lottie everywhere
-- Animated transitions
-- Accessibility is a must
+- Vibrant gradients (teal, yellow, orange, pink, blue)
+- Glassmorphism, neumorphism, soft UI
+- Lottie & SVG everywhere
+- Creative animated transitions
+- Accessibility for all
 
 ---
 
-## 🗄️ My Stack History
+## 🗄️ Stack Growth
 
 ```mermaid
 graph LR
-  A[Java] --> B[Android]
-  B --> C[Flutter]
-  C --> D[Firebase]
-  D --> E[AI/ML]
-  E --> F[Automation]
-  F --> G[Open Source]
+  Java --> Android
+  Android --> Flutter
+  Flutter --> Firebase
+  Firebase --> NodeJS
+  NodeJS --> LLMs
+  LLMs --> AgenticOptimizations
+  AgenticOptimizations --> Cloud
 ```
 
 ---
 
-## 🧩 Random Tech Love
+## 🧩 Tech I Love
 
-- ❤️ Flutter
-- 💛 Dart
+- 💙 Flutter
+- 🧡 Dart
 - 💚 Firebase
+- 💚 Node.js
 - 💙 Figma
-- 🧡 Open Source
-- 💜 Machine Learning
-- 🤍 Clean Architecture
-- 🤎 Dark Mode
+- 🤍 LLMs & AI Agents
+- 🖤 Clean Code
+- 💛 Animation
 
 ---
 
@@ -298,13 +333,13 @@ twitter: https://twitter.com/ubaidxdev
 # 🌟 More Cool Stuff
 
 <details>
-<summary>🎯 My Goals For 2025</summary>
+<summary>🎯 My Next-Level Goals</summary>
 <ul>
   <li>Build an AI-powered productivity SaaS</li>
-  <li>Contribute to 10+ OSS projects</li>
-  <li>Speak at 3+ tech conferences</li>
-  <li>Travel somewhere new for code & coffee</li>
-  <li>Mentor 50+ junior devs</li>
+  <li>Contribute to Open Source (soon!)</li>
+  <li>Speak at a tech conference</li>
+  <li>Travel for code & coffee</li>
+  <li>Mentor new devs on their journey</li>
 </ul>
 </details>
 
@@ -319,73 +354,45 @@ twitter: https://twitter.com/ubaidxdev
 </details>
 
 <details>
-<summary>🛠️ Open Source PRs & Issues</summary>
-  
-```list type="issue"
-data:
-- url: "https://github.com/flutter/flutter/issues/12345"
-  state: "closed"
-  draft: false
-  title: "Improve navigation performance"
-  number: 12345
-  created_at: "2024-02-10T08:45:00Z"
-  closed_at: "2024-03-01T14:21:00Z"
-  merged_at: ""
-  labels:
-  - "performance"
-  - "enhancement"
-  author: "ubaidxdev"
-  comments: 4
-  assignees_avatar_urls:
-  - "https://avatars.githubusercontent.com/u/243235?v=4"
-- url: "https://github.com/firebase/firebase-android-sdk/pull/6789"
-  state: "closed"
-  draft: false
-  title: "Add support for new Firestore config"
-  number: 6789
-  created_at: "2024-04-12T12:15:00Z"
-  closed_at: "2024-04-14T19:30:00Z"
-  merged_at: "2024-04-14T19:30:00Z"
-  labels:
-  - "feature"
-  - "firebase"
-  author: "ubaidxdev"
-  comments: 2
-  assignees_avatar_urls:
-  - "https://avatars.githubusercontent.com/u/243235?v=4"
-```
+<summary>⚡ Mini Animation Gallery</summary>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3orieRz5U4sV6T7xgk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100"/>
+</p>
 </details>
 
 <details>
-<summary>🎨 Code Style</summary>
-
-- Always use meaningful names
-- Write comments that educate
-- DRY, KISS, SOLID, and all the good stuff
-- Lint everything (even markdown)
-- Use emojis to make code reviews fun
-
+<summary>🛠️ Code Style</summary>
+- Use meaningful names, always!
+- Comments that teach, not just explain.
+- DRY, KISS, SOLID, and all the good stuff.
+- Lint everything (even markdown!).
+- Emojis for fun code reviews.
 </details>
 
 ---
 
 <a name="footer"></a>
 <p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="140" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1tZDU3aHdtZjUzNm1tZ3R1dnAwdG45d3JkN3h5OHdreW13bGx5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9PtfS5tTC8ejlYfCLU/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="140" />
+  <img src="https://media.giphy.com/media/9PtfS5tTC8ejlYfCLU/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="140"/>
 </p>
 
 ---
 
 <p align="center">
-  <b>Let's make something f*cking legendary together.</b>
+  <b>Forever learning, forever exploring. Let's build, break, and wonder together!</b>
   <br>
-  <i>— Ubaid Utor | ubaidxdev</i>
+  <i>— Ubad Ullah | ubaidxdev</i>
 </p>
 
 ---
 
 <!--
-Scroll for more! This README is intentionally long (500+ lines) for ultra detail and maximum color.
-If you want even more sections (pet projects, code snippets, memes, etc) just let me know!
+Scroll for more! This README is intentionally long and vibrant for ultra detail and maximum color.
+For even more creativity, memes, or interactive widgets, just ask!
 -->
