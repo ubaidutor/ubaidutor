@@ -9,13 +9,13 @@
 
 <a name="top"></a>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1200&color=F7971E,00B8D4,FFD600,EA5455,2DCE98&center=true&vCenter=true&width=900&lines=👋+Hey!+I'm+Ubad+Ullah+%7C+ubaidxdev;Innovator,+Learner,+Explorer;Coding+Worlds+Wonderer+%F0%9F%AA%84;Flutter+%7C+AI+%7C+Node.js+%7C+LLMs+%7C+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1200&center=true&vCenter=true&width=900&color=1DE9B6,FFD600,EA5455,00B8D4,FF9800&lines=%F0%9F%91%8B+Hey!+I'm+Ubad+Ullah+%7C+ubaidxdev;Innovator%2C+Learner%2C+Explorer;Coding+Worlds+Wonderer+%F0%9F%AA%84;Flutter+%7C+AI+%7C+Node.js+%7C+LLMs+%7C+Backend" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160"/>
+<a href="https://github.com/ubaidxdev">
+<p align="center", style="border-radius: 50px;">
+  <img src="https://avatars.githubusercontent.com/u/92709017?v=4" width="160" />
 </p>
-
+</a>
 ---
 
 <h1 align="center">
