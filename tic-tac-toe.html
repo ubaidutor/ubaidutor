@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tic-Tac-Toe - Ubad Ullah (ubaidutor)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      background: linear-gradient(135deg, #FFD600 0%, #00B8D4 100%);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      font-family: 'Segoe UI', 'Fira Code', monospace;
+      color: #232323;
+      margin: 0;
+    }
+    h1 {
+      margin-top: 40px;
+      font-size: 2.5rem;
+      letter-spacing: 2px;
+      color: #EA5455;
+      text-shadow: 2px 2px 0 #fff7e6;
+    }
+    .game-container {
+      background: rgba(255,255,255,0.95);
+      border-radius: 18px;
+      box-shadow: 0 8px 32px #00b8d488;
+      padding: 40px 28px 24px 28px;
+      margin-top: 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-width: 340px;
+    }
+    #status {
+      font-size: 1.3rem;
+      font-weight: 600;
+      min-height: 40px;
+      margin-bottom: 18px;
+      color: #00B8D4;
+      text-shadow: 1px 1px 0 #FFD600;
+    }
+    .board {
+      display: grid;
+      grid-template-columns: repeat(3, 70px);
+      grid-template-rows: repeat(3, 70px);
+      gap: 10px;
+      margin-bottom: 22px;
+    }
+    .cell {
+      width: 70px;
+      height: 70px;
+      font-size: 2.6rem;
+      font-weight: bold;
+      background: linear-gradient(135deg, #F7971E 60%, #EA5455 100%);
+      color: #fff;
+      border: none;
+      border-radius: 14px;
+      cursor: pointer;
+      transition: background 0.18s, color 0.18s;
+      outline: none;
+      box-shadow: 0 2px 8px #ffd60055;
+    }
+    .cell:disabled {
+      background: #bdbdbd;
+      color: #fff;
+      cursor: default;
+    }
+    #resetBtn {
+      margin-top: 8px;
+      background: #00B8D4;
+      color: #fff;
+      border: none;
+      font-size: 1rem;
+      font-weight: bold;
+      padding: 10px 24px;
+      border-radius: 10px;
+      cursor: pointer;
+      letter-spacing: 1px;
+      transition: background 0.18s;
+      box-shadow: 0 2px 10px #ea545555;
+    }
+    #resetBtn:hover {
+      background: #EA5455;
+    }
+    .footer {
+      margin-top: 48px;
+      font-size: 1.1rem;
+      color: #f7971e;
+      text-align: center;
+      letter-spacing: 1px;
+    }
+    .copy-section {
+      margin: 40px 0 0 0;
+      padding: 16px 18px;
+      background: #fffbe6;
+      border-radius: 14px;
+      width: 98%;
+      max-width: 580px;
+      box-shadow: 0 2px 10px #ffd60022;
+      font-size: 0.97rem;
+    }
+    .code-view {
+      position: relative;
+      margin-top: 10px;
+    }
+    #showCodeBtn {
+      background: #FFD600;
+      color: #EA5455;
+      font-size: 1rem;
+      font-weight: bold;
+      border: none;
+      border-radius: 8px;
+      padding: 7px 20px;
+      cursor: pointer;
+      margin-bottom: 10px;
+      margin-top: 8px;
+      box-shadow: 0 1px 6px #00b8d433;
+      transition: background 0.15s;
+    }
+    #showCodeBtn:hover {
+      background: #00B8D4;
+      color: #fff;
+    }
+    #codeBlock {
+      width: 100%;
+      height: 320px;
+      overflow: auto;
+      font-size: 0.89rem;
+      border-radius: 8px;
+      background: #262626;
+      color: #FFD600;
+      padding: 12px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      display: none;
+      font-family: 'Fira Mono', 'Consolas', monospace;
+    }
+    @media (max-width: 540px) {
+      .game-container { min-width: unset; padding: 18px 3vw;}
+      .board { grid-template-columns: repeat(3, 19vw); grid-template-rows: repeat(3, 19vw);}
+      .cell { width: 19vw; height: 19vw; font-size: 2rem; }
+      .copy-section { max-width: unset; padding: 10px 2vw;}
+    }
+  </style>
+</head>
+<body>
+  <h1>🎮 Tic-Tac-Toe</h1>
+  <div class="game-container">
+    <div id="status">Player X's turn</div>
+    <div class="board" id="board"></div>
+    <button id="resetBtn" onclick="initGame()">Reset Game</button>
+  </div>
+
+  <div class="copy-section">
+    <strong>🔽 Want to embed this game in your own repo?</strong>
+    <br>
+    <span>Click the button below to view and copy the full source code!</span>
+    <div class="code-view">
+      <button id="showCodeBtn" onclick="toggleCode()">Show Game Code</button>
+      <pre id="codeBlock"></pre>
+    </div>
+  </div>
+
+  <div class="footer">
+    Made by <b>Ubad Ullah</b> (<a href="https://github.com/ubaidutor" target="_blank">@ubaidutor</a>) • 2025<br>
+    <span style="font-size:0.91rem; color:#EA5455">Keep exploring, keep playing 🚀</span>
+  </div>
+
+<script>
+const codeString = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tic-Tac-Toe</title>
+  <style>
+    body { background: #FFD600; font-family: monospace; }
+    .board { display: grid; grid-template-columns: repeat(3, 60px); grid-gap: 10px; }
+    .cell { width: 60px; height: 60px; font-size: 2rem; background: #EA5455; color: #fff; border: none; border-radius: 10px; }
+    .cell:disabled { background: #bbb; }
+  </style>
+</head>
+<body>
+  <div id="status">Player X's turn</div>
+  <div class="board" id="board"></div>
+  <button onclick="initGame()">Reset Game</button>
+  <script>
+    let board = Array(9).fill(''), player = 'X', active = true;
+    function render() {
+      const b = document.getElementById('board');
+      b.innerHTML = '';
+      board.forEach((c,i) => {
+        let btn = document.createElement('button');
+        btn.className = 'cell'; btn.innerText = c;
+        btn.disabled = !!c || !active;
+        btn.onclick = () => move(i);
+        b.appendChild(btn);
+      });
+      let win = winner();
+      document.getElementById('status').innerText = win ? 
+        (win==='Draw'?'It\\'s a Draw!':\`Player \${win} Wins!\`) : \`Player \${player}\\'s turn\`;
+    }
+    function move(i){ if(!active||board[i])return; board[i]=player;
+      if(!winner()) player=player==='X'?'O':'X'; render(); }
+    function winner(){
+      let l=[[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]];
+      for(let a of l){if(board[a[0]]&&board[a[0]]===board[a[1]]&&board[a[1]]===board[a[2]])return board[a[0]];}
+      if(board.every(c=>c))return 'Draw'; return null;
+    }
+    function initGame(){board=Array(9).fill('');player='X';active=true;render();}
+    initGame();
+  <\/script>
+</body>
+</html>
+`;
+
+function toggleCode() {
+  const codeBlock = document.getElementById("codeBlock");
+  const btn = document.getElementById("showCodeBtn");
+  if (codeBlock.style.display === "block") {
+    codeBlock.style.display = "none";
+    btn.innerText = "Show Game Code";
+  } else {
+    codeBlock.textContent = codeString;
+    codeBlock.style.display = "block";
+    btn.innerText = "Hide Game Code";
+  }
+}
+
+let tttBoard = Array(9).fill('');
+let tttPlayer = 'X';
+let tttActive = true;
+
+function renderBoard() {
+  const boardDiv = document.getElementById('board');
+  boardDiv.innerHTML = '';
+  tttBoard.forEach((cell, idx) => {
+    const btn = document.createElement('button');
+    btn.className = 'cell';
+    btn.innerText = cell;
+    btn.disabled = !!cell || !tttActive;
+    btn.onclick = () => tttMove(idx);
+    boardDiv.appendChild(btn);
+  });
+  const winner = getWinner();
+  const status = document.getElementById('status');
+  if (winner) {
+    status.innerHTML = winner === 'Draw' ? "It's a Draw! 🤝" : `🎉 Player ${winner} Wins!`;
+    tttActive = false;
+  } else {
+    status.innerHTML = `Player <span style="color:#EA5455">${tttPlayer}</span>'s turn`;
+  }
+}
+
+function tttMove(idx) {
+  if (!tttActive || tttBoard[idx]) return;
+  tttBoard[idx] = tttPlayer;
+  if (!getWinner()) tttPlayer = tttPlayer === 'X' ? 'O' : 'X';
+  renderBoard();
+}
+
+function getWinner() {
+  const lines = [
+    [0,1,2],[3,4,5],[6,7,8], [0,3,6],[1,4,7],[2,5,8], [0,4,8],[2,4,6]
+  ];
+  for (let l of lines) {
+    if (tttBoard[l[0]] && tttBoard[l[0]] === tttBoard[l[1]] && tttBoard[l[1]] === tttBoard[l[2]]) {
+      return tttBoard[l[0]];
+    }
+  }
+  if (tttBoard.every(c => c)) return 'Draw';
+  return null;
+}
+
+function initGame() {
+  tttBoard = Array(9).fill('');
+  tttPlayer = 'X';
+  tttActive = true;
+  renderBoard();
+}
+
+initGame();
+</script>
+</body>
+</html>
